@@ -1,0 +1,65 @@
+.user-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* max-width: 900px; Adjust the maximum width according to your design */
+    margin-bottom: 70px;
+    margin: 0 auto;
+    width:300px; 
+  
+  }
+  
+  /* .form-group {
+    margin-bottom: 20px;
+    border-left: 4px solid #ad2222; 
+    border-right: 4px solid #e53838; 
+    padding: 1px;
+  } */
+  
+  /* label {
+    display: block;
+    margin-bottom: 5px;///////////////
+    color:black;
+  } */
+  
+  .cform {
+    width: 50rem;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    color: red;
+    margin-top: 3;
+  }
+  .customerf{
+    width: 50rem;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    color: red;
+    margin-top: 4;
+  }
+  
+  button {
+    padding: 10px;
+    cursor: pointer;
+    background-color: white;
+    color: F6FDC3;
+    border: none;
+    border-radius: 5px;
+    padding-top: 3px;
+  }
+  .h5{
+    /* background-color: #4caf50; */
+    font-weight: bold;
+    font-size: 30px;
+    /* font-style: italic; */
+  }
+  .userdetails{
+  
+    background-image: url('https://images.pexels.com/photos/1211771/pexels-photo-1211771.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  
+  
